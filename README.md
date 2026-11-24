@@ -79,3 +79,12 @@ During decoding, the embedded binary data is extracted to recover the original s
 
 ## Author
 **Abhishek Ashok Zanje**
+
+## Project Output
+
+### Original Image
+![Original Image](beautiful.bmp)
+
+### Steganography Image
+![Stego Image](stego.bmp)
+
